@@ -7,23 +7,24 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('/bild/view-computer-video-display-monitor.jpg') no-repeat center center;
+    background-color: rgb(43, 41, 39);
     background-size: cover;
 }
 
 .container {
     text-align: center;
     margin-top: -250px;
-    max-width: 600px;
+    max-width: 700px;
     width: 100%;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #1d6855;
+    box-shadow: 0 0 10px rgba(243, 243, 243, 0.1);
 }
 
 h1 {
     margin-bottom: 20px;
-    margin-left: -30px;
+    margin-left: 30px;
     color: black;
     width: 650px;
     background-color: rgba(240, 248, 255, 0.616);
@@ -46,7 +47,7 @@ h1 {
     font-size: 16px;
     text-decoration: none;
     color: #fff;
-    background-color: #1d6855;
+    background-color: #161a19;
     border-radius: 10px;
     transition: background-color 0.3s, transform 0.3s;
 }
