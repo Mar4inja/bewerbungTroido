@@ -128,13 +128,13 @@ h1 {
 
     h1 {
         font-size: 16px;
-        margin-top: 20px; /* Pievieno atstarpi virsrakstam */
+        margin-top: 300px; /* Pievieno atstarpi virsrakstam */
     }
 
     .buttons {
         flex-direction: column; /* Pārveido pogas vertikāli */
         align-items: center; /* Centrs pogas vertikāli */
-        margin-top: 20px; /* Atstarpe starp virsrakstu un pogām */
+        margin-left: 20px;
     }
 
     .button {
